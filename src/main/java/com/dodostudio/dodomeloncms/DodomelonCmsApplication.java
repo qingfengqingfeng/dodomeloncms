@@ -7,7 +7,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @SpringBootApplication
 @EnableTransactionManagement
-@MapperScan("com.haguodutimes.heatingsysv2.mapper")
+@MapperScan("com.dodostudio.dodomeloncms.mapper")
 public class DodomelonCmsApplication {
 
 	public static void main(String[] args) {
