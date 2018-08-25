@@ -19,7 +19,7 @@ public class HomeController {
     public String index(Map<String, Object> model){
 
 
-        return "index";
+        return "login";
     }
 
     @RequestMapping(value = {"/home"})
